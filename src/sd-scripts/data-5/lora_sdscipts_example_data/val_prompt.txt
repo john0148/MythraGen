@@ -1,0 +1,5 @@
+study to pieta 1 painted by Michelangelo in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+the prophet jeremiah 1512 painted by Michelangelo in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study of nude man painted by Michelangelo in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study of nude man 1 painted by Michelangelo in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study of a seated woman painted by Michelangelo in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

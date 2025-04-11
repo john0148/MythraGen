@@ -1,0 +1,5 @@
+portrait of the artist s brother with hat 1888 painted by Felix Vallotton in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+italian poet and philosopher giacomo leopardi 1895 painted by Felix Vallotton in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+portrait of english writer and illustrator aubrey beardsley 1898 painted by Felix Vallotton in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+portrait of russian philosopher nikolai konstantinovich mikhailovsky painted by Felix Vallotton in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+portrait of baudelaire 1902 painted by Felix Vallotton in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

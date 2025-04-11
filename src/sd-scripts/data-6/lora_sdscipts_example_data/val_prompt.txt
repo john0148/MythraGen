@@ -1,0 +1,5 @@
+seated old man in the genre of Sketch And Study in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study of an old man in the genre of Sketch And Study in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study for the last supper judas in the genre of Sketch And Study in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study for the head 1507 in the genre of Sketch And Study in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+study for the head of a poet in the genre of Sketch And Study in the style of High Renaissance. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

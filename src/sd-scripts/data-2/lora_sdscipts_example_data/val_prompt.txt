@@ -1,0 +1,5 @@
+leda and the swan 1 in the genre of Illustration in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+jugend magazine 1900 in the genre of Illustration in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+girls heads in a circle 1901 4 in the genre of Illustration in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+jugend magazine 1896 in the genre of Illustration in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+kiss of medusa in the genre of Illustration in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

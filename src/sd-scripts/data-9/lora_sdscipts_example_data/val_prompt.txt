@@ -1,0 +1,5 @@
+the fuji reflects in lake kawaguchi seen from the misaka pass in the kai province painted by Katsushika Hokusai in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+asakusa honganji temple in th eastern capital painted by Katsushika Hokusai in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+tama river in the musashi province painted by Katsushika Hokusai in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+view of honmoku painted by Katsushika Hokusai in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+the fuji from kanaya on the tokaido painted by Katsushika Hokusai in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

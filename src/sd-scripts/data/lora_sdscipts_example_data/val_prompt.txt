@@ -1,0 +1,5 @@
+erda painted by Aubrey Beardsley in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+hail mary pencil painted by Aubrey Beardsley in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+third tableau 1896 painted by Aubrey Beardsley in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+waiting 1893 painted by Aubrey Beardsley in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+the peacock skirt 1893 painted by Aubrey Beardsley in the style of Art Nouveau Modern. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

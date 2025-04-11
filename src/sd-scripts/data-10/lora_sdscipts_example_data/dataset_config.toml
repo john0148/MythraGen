@@ -1,0 +1,11 @@
+[general]
+enable_bucket = true                        # Whether to use Aspect Ratio Bucketing
+
+[[datasets]]
+resolution = 512                            # Training resolution
+batch_size = 2                              # Batch size
+
+  [[datasets.subsets]]
+  image_dir = 'data-10/lora_sdscipts_example_data/imgs'
+  caption_extension = '.txt'
+  num_repeats = 15                          # Number of repetitions for training images

@@ -1,0 +1,5 @@
+content = A woman with long, swirling hair
+genre = Illustration
+style = Art Nouveau
+size = 50
+file = prompt-2

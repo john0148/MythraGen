@@ -1,0 +1,5 @@
+content = A woman seated in a decorated chair, wearing a gown with a detailed pattern
+genre = Portrait
+style = Rococo
+size = 50
+file = prompt-4

@@ -1,0 +1,5 @@
+content = A man sitting with one arm resting on a chair
+artist = Felix Vallotton
+style = Art Nouveau
+size = 50
+file = prompt-7

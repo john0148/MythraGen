@@ -1,0 +1,5 @@
+content = A hillside covered in vivid, striking colors, with trees and a bright sky
+genre = Landscape
+style = Fauvism
+size = 50
+file = prompt-12

@@ -1,0 +1,5 @@
+whirlpools on a rocky coast in the genre of Landscape in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+the fuji reflects in lake kawaguchi seen from the misaka pass in the kai province in the genre of Landscape in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+descending geese katata in the genre of Landscape in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+cargo ship and wave in the genre of Landscape in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28
+asakusa honganji temple in th eastern capital in the genre of Landscape in the style of Ukiyo e. --n low quality, worst quality, bad anatomy, bad composition, poor --w 512 --h 512 --l 5 --s 28

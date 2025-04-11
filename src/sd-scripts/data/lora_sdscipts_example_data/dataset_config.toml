@@ -1,0 +1,6 @@
+[[datasets]]
+
+  [[datasets.subsets]]
+  image_dir = 'data/lora_sdscipts_example_data/imgs'
+  caption_extension = '.txt'
+  num_repeats = 50                          # Number of repetitions for training images

@@ -1,0 +1,5 @@
+content = A man sitting with one arm resting on a chair
+genre = Portrait
+style = Art Nouveau
+size = 50
+file = prompt-8

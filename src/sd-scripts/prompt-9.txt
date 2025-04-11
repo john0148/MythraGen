@@ -1,0 +1,5 @@
+content = A boat sailing across a sea, with rolling waves and a distant mountain under a clear sky
+artist = Katsushika Hokusai
+style = Ukiyo-e
+size = 50
+file = prompt-9

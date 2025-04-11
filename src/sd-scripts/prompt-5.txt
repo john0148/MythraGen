@@ -1,0 +1,5 @@
+content = A seated man, his head resting on his hand
+artist = Michelangelo
+style = High Renaissance
+size = 50
+file = prompt-5
