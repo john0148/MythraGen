@@ -1,4 +1,1 @@
-content = A rough sketch of a human figure with subtle shading and balanced proportions
-artist = Leonardo Da Vinci
-genre = Sketch And Study
-style = High Renaissance
+study on the proportions of head and eyes
