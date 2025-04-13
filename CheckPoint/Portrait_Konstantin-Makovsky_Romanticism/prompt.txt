@@ -1,0 +1,4 @@
+content = A man stands by a window, his face softened by the light of the setting sun
+genre = Portrait
+style = Romanticism
+artist = Konstantin Makovsky

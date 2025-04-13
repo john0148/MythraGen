@@ -1,0 +1,4 @@
+content = A busy park scene with people relaxing
+artist = Georges Seurat
+genre = Genre Painting
+style = Pointillism

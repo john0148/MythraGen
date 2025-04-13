@@ -1,0 +1,4 @@
+content = A Young Man and a Girl playing Cards
+artist = Rembrandt
+genre = Genre Painting
+style = Baroque
